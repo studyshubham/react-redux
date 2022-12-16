@@ -1,7 +1,7 @@
-import { BUY_ICECREM } from "./iceCreamTypes";
+import { BUY_ICECREAM } from "./iceCreamTypes";
 
 export const buyIceCream = () => {
     return {
-        type: BUY_ICECREM
+        type: BUY_ICECREAM
     }
 }
